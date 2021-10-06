@@ -5,6 +5,8 @@ Logic Sytem Project.
 The project consists in the development of a digital watch with ancillary functions, which is controlled
 by a minimum number of buttons (two to three pushbuttons, DIP-Switches), and displays on a limited display (six 7-segment displays, LEDs).
 
+To see the project, open projectWatch with the software logisim evolution.
+
 Specifications: [Organisation du projet v2.0.pdf](https://github.com/VinceGHER/MONTRE-DE10-LITE/files/7294885/Organisation.du.projet.v2.0.pdf)
 
 Report: [Report Logic System.pdf](https://github.com/VinceGHER/MONTRE-DE10-LITE/files/7294902/Report.Logic.System.pdf)
