@@ -21,7 +21,3 @@ Countdown
 Game
 
 <img src="https://user-images.githubusercontent.com/29159082/136225583-a755a761-f26d-4b0c-b829-f91512904935.png" width="400"/> 
-
-
-Commande GitHub
-https://github.github.com/training-kit/downloads/fr/github-git-cheat-sheet.pdf
